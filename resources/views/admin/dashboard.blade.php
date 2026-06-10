@@ -12,9 +12,14 @@
 
     <hr>
 
-    <a href="#" class="btn btn-success">
+    <a href="/admin/books" class="btn btn-success">
         Manage Books
     </a>
+
+   <a href="/api-books"
+   class="btn btn-info">
+   API Integration
+</a>
 
 </div>
 
